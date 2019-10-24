@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Lab | Introduction to Pandas + Importing and Exporting Files
+# Lab | Introduction to Pandas
 
 ## Introduction
 
@@ -8,11 +8,10 @@ In the Introduction to Pandas lesson, we learned about the two main data structu
 
 The goal of this lab is to help you practice the concepts you learned in the lesson and provide you with some hands-on experience working with Pandas.
 
-Without data, we couldn't really be data scientists. This lab will also discuss the task of importing and exporting data into pandas using different file formats.
 
 ## Getting Started
 
-Now you should already be familiar with the workflow of solving and submitting the labs. But in case not, review the guidelines in the `README.md` in the [repo root](../..) and [previous lab](../lab-pandas).
+Now you should already be familiar with the workflow of solving and submitting the labs. But in case not, review the guidelines in the previous labs.
 
 In this lab you will be working on [main.ipynb](your-code/main.ipynb). To launch it, first navigate to the directory that contains `main.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `main.ipynb` link to launch it.
 
@@ -33,5 +32,4 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Intro to Pandas Data Structures](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
 - [Descriptive Statistics for Pandas DataFrame](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
-- [Pandas - the `read_csv` function](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html)
-- [Pandas - the `read_excel` function](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_excel.html)
+
